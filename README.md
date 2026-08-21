@@ -1,6 +1,6 @@
 ### Hey There, I'm Otávio! 👋
 
-.Aspera ad Astra 
+Aspera ad Astra 
 
 ### 🤖 Linguagens e Tecnologias
 
