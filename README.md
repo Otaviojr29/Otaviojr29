@@ -1,6 +1,6 @@
 ### Hey There, I'm Otávio! 👋
 
-Aspera ad Astra 
+Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world." - Albert Einstein
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -13,8 +13,9 @@ Aspera ad Astra
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
+
 ### 📊 Estatísticas
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaviojr29&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Otaviojr29&layout=compact&theme=tokyonight" alt="Top Langs" />
